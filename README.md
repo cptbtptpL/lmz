@@ -66,4 +66,4 @@
 
   ![](http://img.pconline.com.cn/images/upload/upc/tx/wallpaper/1211/21/c1/15954767_1353492149860.jpg)
 
-[Go to this page](subdir/edsrv.md)
+[Go to this page](./edsrv.md)
